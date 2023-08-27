@@ -8,7 +8,7 @@ Feature: Account management
 
 
     Examples:
-      | Firstname | Lastname | Email                | Password | ConfirmPassword |
-      | Bobby     | Brown    | Bobbybrown@gmail.com | Music20! | Music20!        |
+      | Firstname | Lastname | Email               | Password | ConfirmPassword |
+      | Bobby     | Brown    | Bobbybrow@gmail.com | Music20! | Music20!        |
 
 
